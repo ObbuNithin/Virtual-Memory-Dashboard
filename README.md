@@ -16,8 +16,10 @@ The **Virtual Memory Monitoring Dashboard** is a real-time system performance tr
 
 ## Screenshots
 
-### Memory Utilization Dashboard,  Swap Activity Monitoring and Alert Configuration
+### Memory Utilization Dashboard, Swap Activity Monitoring and Alert Configuration
+
 ![Memory Utilization Dashboard](Picture2.png)
+
 *Real-time visualization of system memory usage with customizable time ranges*
 
 ## Technologies Used
@@ -64,6 +66,7 @@ Access Grafana at **http://localhost:3000** and add Prometheus as a data source.
 The dashboard comes preconfigured with panels for all essential virtual memory metrics. You can further customize it according to your specific monitoring needs.
 
 ![Dashboard Customization](Picture1.png)
+
 *Easy panel customization with drag-and-drop interface*
 
 ## Alerts

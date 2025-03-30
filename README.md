@@ -14,6 +14,20 @@ The **Virtual Memory Monitoring Dashboard** is a real-time system performance tr
    * Cache Hit/Miss Ratios
    * Buffer & Shared Memory Statistics
 
+## Screenshots
+
+### Memory Utilization Dashboard
+![Memory Utilization Dashboard](./screenshots/memory_dashboard.png)
+*Real-time visualization of system memory usage with customizable time ranges*
+
+### Swap Activity Monitoring
+![Swap Activity](./screenshots/swap_activity.png)
+*Track page swap in/out operations and identify potential performance bottlenecks*
+
+### Alert Configuration
+![Alert Setup](./screenshots/alert_config.png)
+*Configure custom thresholds for various memory metrics*
+
 ## Technologies Used
 * **Prometheus** – Collects and stores system memory metrics.
 * **Grafana** – Provides an interactive dashboard for real-time visualization.
@@ -56,6 +70,9 @@ Access Grafana at **http://localhost:3000** and add Prometheus as a data source.
 
 ## Dashboard Configuration
 The dashboard comes preconfigured with panels for all essential virtual memory metrics. You can further customize it according to your specific monitoring needs.
+
+![Dashboard Customization](.picture1.png)
+*Easy panel customization with drag-and-drop interface*
 
 ## Alerts
 Configure alerts by:

@@ -16,17 +16,9 @@ The **Virtual Memory Monitoring Dashboard** is a real-time system performance tr
 
 ## Screenshots
 
-### Memory Utilization Dashboard
-![Memory Utilization Dashboard](./screenshots/memory_dashboard.png)
+### Memory Utilization Dashboard,  Swap Activity Monitoring and Alert Configuration
+![Memory Utilization Dashboard](Picture2.png)
 *Real-time visualization of system memory usage with customizable time ranges*
-
-### Swap Activity Monitoring
-![Swap Activity](./screenshots/swap_activity.png)
-*Track page swap in/out operations and identify potential performance bottlenecks*
-
-### Alert Configuration
-![Alert Setup](./screenshots/alert_config.png)
-*Configure custom thresholds for various memory metrics*
 
 ## Technologies Used
 * **Prometheus** – Collects and stores system memory metrics.

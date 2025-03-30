@@ -71,7 +71,7 @@ Access Grafana at **http://localhost:3000** and add Prometheus as a data source.
 ## Dashboard Configuration
 The dashboard comes preconfigured with panels for all essential virtual memory metrics. You can further customize it according to your specific monitoring needs.
 
-![Dashboard Customization](.picture1.png)
+![Dashboard Customization](picture1.png)
 *Easy panel customization with drag-and-drop interface*
 
 ## Alerts
